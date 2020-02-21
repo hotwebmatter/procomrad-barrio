@@ -1,0 +1,104 @@
+{
+    "uuid": [
+        {
+            "value": "3752e5dc-e78e-4af5-992e-682edf646cef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "show",
+            "target_type": "node_type",
+            "target_uuid": "be63d6ed-93aa-4db1-81f7-ec243b06234b"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-02-21T22:44:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Jazz Zone"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-21T22:32:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-21T22:44:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Jazz Zone, with DJ Mark After Dark, airs on Wednesdays from 6:00 to 7:00 PM.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Mark After Dark, mixing it live at Troop",
+            "title": "",
+            "width": 1080,
+            "height": 1080,
+            "target_type": "file",
+            "target_uuid": "5eae97f0-d023-4bce-9a77-a9f6383a8bc8"
+        }
+    ]
+}

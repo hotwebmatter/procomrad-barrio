@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "fdffdacb-486d-4b99-bb26-5720f0e7c8fa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "7b6aa7d6-9ba9-4b0f-a3d6-44aec141d7f1"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-02-21T22:37:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "title": [
+        {
+            "value": "On the Air & On the Square"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-21T21:07:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-21T22:37:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/home",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><img alt=\"Providence Community Radio is on the air!\" data-entity-type=\"file\" data-entity-uuid=\"c35897e3-13a9-41cb-8335-23c509eabe6b\" src=\"\/sites\/default\/files\/inline-images\/pcr-on-air.jpg\" \/><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

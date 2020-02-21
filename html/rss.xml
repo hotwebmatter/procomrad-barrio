@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://dev.procomrad.org/">
+  <channel>
+    <title>procomrad.org - Providence Community Radio&lt;br&gt;101.1 FM WVVX-LP</title>
+    <link>http://dev.procomrad.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>On the Air &amp; On the Square </title>
+  <link>http://dev.procomrad.org/node/4</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;On the Air &amp; On the Square &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="http://dev.procomrad.org/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;modus&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 02/21/2020 - 16:18&lt;/span&gt;
+
+
+
+            &lt;div class="field field--name-field-square field--type-image field--label-hidden field__item"&gt;  &lt;img src="http://dev.procomrad.org/sites/default/files/default_images/pcr-on-air.jpg" width="640" height="640" alt="Providence Community Radio is on the air!" typeof="foaf:Image" /&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 21 Feb 2020 21:18:08 +0000</pubDate>
+    <dc:creator>modus</dc:creator>
+    <guid isPermaLink="false">4 at http://dev.procomrad.org</guid>
+    </item>
+
+  </channel>
+</rss>
