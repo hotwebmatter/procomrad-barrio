@@ -1,6 +1,6 @@
-name: Bootstrap Barrio Subtheme
+name: ProComRad Barrio Subtheme
 type: theme
-description: 'Basic structure for a Bootstrap Barrio SubTheme.'
+description: 'ProComRad Bootstrap Barrio SubTheme.'
 # version: VERSION
 # core: 8.x
 base theme: bootstrap_barrio
@@ -33,8 +33,3 @@ regions:
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
 
-# Information added by Drupal.org packaging script on 2019-02-28
-version: '8.x-4.22'
-core: '8.x'
-project: 'bootstrap_barrio'
-datestamp: 1551325396
