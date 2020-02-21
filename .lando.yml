@@ -1,0 +1,4 @@
+name: procomrad.org
+recipe: drupal8
+config:
+  webroot: web
