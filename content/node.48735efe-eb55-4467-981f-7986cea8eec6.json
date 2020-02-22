@@ -1,0 +1,90 @@
+{
+    "uuid": [
+        {
+            "value": "48735efe-eb55-4467-981f-7986cea8eec6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "7b6aa7d6-9ba9-4b0f-a3d6-44aec141d7f1"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-02-21T23:17:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "title": [
+        {
+            "value": "On The Air"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-21T20:26:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-21T23:17:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/schedule",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>Wednesdays 6-10pm<\/h2>\r\n\r\n<p>6pm <a href=\"\/show\/jazz-zone\"><strong>The Jazz Zone<\/strong><\/a> <em>with DJ Mark After Dark<\/em><br \/>\r\n7pm <strong>Music From The Fort<\/strong> <em>with DJ Will Schaff<\/em><br \/>\r\n8pm <strong>Providance<\/strong> <em>with DJ Quinntronix<\/em><br \/>\r\n9pm <strong>Submodern Live<\/strong> <em>with DJ Andy Davis<\/em><\/p>\r\n\r\n<h2>Thursdays Noon-6pm<\/h2>\r\n\r\n<p>Noon <strong>The Tarot Hour<\/strong> <em>with DJ Will<\/em><br \/>\r\n1pm <strong>Flexible Programming Block<\/strong><br \/>\r\n3pm <strong>BartholomewTown<\/strong> <em>with host Bill Bartholomew<\/em><br \/>\r\n4pm* <strong>Everything Else<\/strong> <em>with DJ NES &amp; Dennis<\/em><br \/>\r\n4pm* <strong>Shred the Gnar Radio<\/strong> <em>with DJ Sima Sima<\/em><br \/>\r\n5pm <strong>Rough Features<\/strong> <em>with DJ Hash on the Mic<\/em><br \/>\r\n<br \/>\r\n<em>* alternating weeks<\/em><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

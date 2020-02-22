@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6fb15df3-ce76-46f1-b806-4c65c8bc2d56"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/48735efe-eb55-4467-981f-7986cea8eec6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/schedule"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

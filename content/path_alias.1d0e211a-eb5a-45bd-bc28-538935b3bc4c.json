@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1d0e211a-eb5a-45bd-bc28-538935b3bc4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f3dba0d4-4348-45e7-a58a-8257558eb079"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/show\/providance"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "3752e5dc-e78e-4af5-992e-682edf646cef"
+            "value": "f3dba0d4-4348-45e7-a58a-8257558eb079"
         }
     ],
     "langcode": [
@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2020-02-21T23:04:11+00:00",
+            "value": "2020-02-21T23:13:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,18 +42,18 @@
     ],
     "title": [
         {
-            "value": "The Jazz Zone"
+            "value": "Providance"
         }
     ],
     "created": [
         {
-            "value": "2020-02-21T22:32:03+00:00",
+            "value": "2020-02-21T23:08:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2020-02-21T23:04:11+00:00",
+            "value": "2020-02-21T23:13:51+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -72,29 +72,33 @@
             "value": true
         }
     ],
-    "revision_translation_affected": [],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
     "path": [
         {
-            "alias": "\/show\/jazz-zone",
+            "alias": "\/show\/providance",
             "langcode": "en",
             "pathauto": 1
         }
     ],
     "body": [
         {
-            "value": "<p>The Jazz Zone, with DJ Mark After Dark, airs on Wednesdays from 6:00 to 7:00 PM.<\/p>\r\n",
+            "value": "<p>Providance, with DJ Quinntronix, airs on Wednesdays from 8:00 - 9:00 PM.<\/p>\r\n",
             "format": "basic_html",
             "summary": ""
         }
     ],
     "field_image": [
         {
-            "alt": "Mark After Dark, mixing it live at Troop",
+            "alt": "Providance with DJ Quinntronix",
             "title": "",
-            "width": 1080,
-            "height": 1080,
+            "width": 640,
+            "height": 640,
             "target_type": "file",
-            "target_uuid": "5eae97f0-d023-4bce-9a77-a9f6383a8bc8"
+            "target_uuid": "1145fda3-4989-438e-812a-524ffd527c0f"
         }
     ]
 }

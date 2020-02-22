@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "1145fda3-4989-438e-812a-524ffd527c0f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "18bf3d4a-9ddf-4059-8320-cd92f50e53e3"
+        }
+    ],
+    "filename": [
+        {
+            "value": "pcr-djq.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2020-02\/pcr-djq.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 111330
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-21T23:10:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-21T23:11:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

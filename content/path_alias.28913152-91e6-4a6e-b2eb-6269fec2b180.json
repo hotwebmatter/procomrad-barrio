@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "28913152-91e6-4a6e-b2eb-6269fec2b180"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3752e5dc-e78e-4af5-992e-682edf646cef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/show\/jazz-zone"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
